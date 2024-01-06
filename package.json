@@ -1,0 +1,27 @@
+{
+  "name": "fingercryptjs",
+  "version": "1.0.0",
+  "description": "A JavaScript library for secure fingerprint authentication with blockchain integration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CornerMan-Hyacinth/fingercryptjs.git"
+  },
+  "keywords": [
+    "[\"authentication\"",
+    "\"fingerprint\"",
+    "\"blockchain\"",
+    "\"security\"",
+    "\"javascript\"",
+    "\"binance\"]"
+  ],
+  "author": "Cornerstone Hyacinth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CornerMan-Hyacinth/fingercryptjs/issues"
+  },
+  "homepage": "https://github.com/CornerMan-Hyacinth/fingercryptjs#readme"
+}
