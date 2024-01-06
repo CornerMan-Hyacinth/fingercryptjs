@@ -4,7 +4,7 @@ A JavaScript library for secure fingerprint authentication with blockchain integ
 
 ### NOTE
 
-Until otherwise stated by the author, this library is still under development and has not be tested thoroughly. Hence, no production projects should be made with it.
+Until otherwise stated by the author, this library is still under development and has not be tested thoroughly. Hence, it shouldn't be used for any project under production.
 
 ## Table of Contents
 
